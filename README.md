@@ -1,25 +1,18 @@
-🚀 Mini Startup Fikir Yarışması Veri Tabanı Sistemi
+# :file_cabinet: Mini Startup Fikir Yarışması Veri Tabanı Sistemi
 
-Bu proje, mini startup fikir yarışmalarını yönetmek amacıyla tasarlanmış
-🗄️ SQL Server tabanlı bir veritabanı sistemidir.
-Kullanıcı rolleri, yarışma etkinlikleri, startup kayıtları, jüri değerlendirmeleri ve ödül süreçlerini kapsar.
+Bu proje, **mini startup fikir yarışmalarını** yönetmek amacıyla tasarlanmış  
+**SQL Server tabanlı bir veritabanı sistemidir**. Sistem; kullanıcı rolleri,  
+yarışma etkinlikleri, startup başvuruları, jüri değerlendirmeleri ve ödül süreçlerini kapsar.
 
-✨ Özellikler
+## :sparkles: Özellikler
+- :busts_in_silhouette: Rol tabanlı kullanıcı yönetimi (Admin, Organizatör, Jüri, Temsilci)
+- :calendar: Yarışma etkinlikleri ve startup kayıtlarının yönetimi
+- :balance_scale: Jüri atama ve standart puanlama sistemi
+- :trophy: Kazanan startup ve ödül takibi
+- :lock: Veri bütünlüğünü sağlayan iş kuralları ve kısıtlar
 
-👥 Rol tabanlı kullanıcı yapısı (Admin, Organizatör, Jüri, Temsilci)
+## :hammer_and_wrench: Kullanılan Teknolojiler
+- :file_cabinet: Microsoft SQL Server
+- :floppy_disk: T-SQL
 
-📅 Yarışma etkinliği ve startup yönetimi
-
-🧑‍⚖️ Jüri atama ve puanlama sistemi
-
-🏆 Kazanan ve ödül takibi
-
-🔒 Veri bütünlüğü ve iş kuralları
-
-🛠️ Teknolojiler
-
-🧩 Microsoft SQL Server
-
-💾 T-SQL
-
-ℹ️ Bu proje yalnızca veritabanı tasarımı ve SQL yapısını içermektedir.
+> :information_source: Bu repository yalnızca **veritabanı tasarımı ve SQL yapısını** içermektedir.
